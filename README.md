@@ -1,0 +1,4 @@
+# GildieMcpe
+Polski edytor gildi
+
+:)
